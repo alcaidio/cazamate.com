@@ -1,0 +1,12 @@
+{
+  "name": "cazamate.com",
+  "version": "1.0.0",
+  "description": "This repository serves as a Content Management System (CMS) on GitHub, integral to the Cazamate ecosystem. It plays a crucial role in managing and retrieving [Cazamate blog](https://www.cazamate.com/blog) resources that contribute to the dynamic content hosted on Cazamate's website.",
+  "main": "get-blog-paths.js",
+  "scripts": {
+    "start": "node get-blog-paths.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
