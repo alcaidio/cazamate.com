@@ -4,7 +4,7 @@ created_date: 2023-12-07
 author_name: Alicia Ibanez
 cover: https://raw.githubusercontent.com/alcaidio/cazamate.com/main/assets/img/finding-lgbtq-friendly-roommates.webp
 description: Explora nuestra detallada guía sobre cómo encontrar compañeros de cuarto LGBTQ+ friendly, diseñada para ayudar a los miembros de la comunidad a descubrir espacios de convivencia inclusivos y diversos.
-topics: Inclusión comunitaria, LGBTQ+, Vida inclusiva, Vivienda compartida
+topics: Inclusión comunitaria, Vida inclusiva, Vivienda compartida, LGBTQ+
 ---
 
 La búsqueda de compañeros de cuarto puede ser emocionante, pero también puede presentar desafíos, especialmente para aquellos que desean vivir en un entorno inclusivo y respetuoso con la diversidad. Si eres miembro de la comunidad LGBTQ+ y buscas un espacio compartido donde te sientas bienvenido, aquí tienes una guía completa para ayudarte a encontrar compañeros de cuarto LGBTQ+ friendly.

@@ -4,7 +4,7 @@ created_date: 2023-12-04
 author_name: Alicia Ibanez
 cover: https://btgidarfuuflvqhowmob.supabase.co/storage/v1/object/public/blog/eco-friendly-shared-living-how-to-adopt-a-sustainable-lifestyle-with-your-roommates.webp?t=2023-12-04T15%3A26%3A22.289Z
 description: Vivre en colocation peut être bien plus qu'une simple question de partage d'espace. Cela peut aussi être une opportunité de vivre de manière écoresponsable et de réduire notre impact sur l'environnement. Découvrez comment adopter un mode de vie durable avec vos colocataires et contribuer à la préservation de notre planète.
-topics: Vie communautaire, Avantages de la colocation, Mode de vie durable, Vie partagée, Écologie
+topics: Vie communautaire, Mode de vie durable, Vie partagée, Écologie, Avantages de la colocation
 ---
 
 ### 1. Tri des Déchets et Recyclage

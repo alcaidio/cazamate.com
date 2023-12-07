@@ -4,7 +4,7 @@ created_date: 2023-12-07
 author_name: Alicia Ibanez
 cover: https://raw.githubusercontent.com/alcaidio/cazamate.com/main/assets/img/finding-lgbtq-friendly-roommates.webp
 description: Explore our detailed guide on finding LGBTQ+ friendly roommates, designed to help community members discover inclusive and diverse living spaces. From utilizing inclusive platforms to exploring LGBTQ+ friendly neighborhoods, our guide offers practical tips for a positive roommate experience. Join us in creating a welcoming environment that celebrates diversity and inclusion in shared living spaces.
-topics: Community Inclusion, LGBTQ+, Roommate Search, Inclusive Living, Shared Housing
+topics: Community Inclusion, Shared Housing, LGBTQ+, Roommate Search, Inclusive Living
 ---
 
 The search for roommates can be exciting, but it can also present challenges, especially for those who wish to live in an inclusive and diversity-respecting environment. If you are a member of the LGBTQ+ community seeking a shared living space where you will feel welcome, here is a comprehensive guide to help you find LGBTQ+ friendly roommates.

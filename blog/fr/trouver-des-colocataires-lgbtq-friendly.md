@@ -4,7 +4,7 @@ created_date: 2023-12-07
 author_name: Alicia Ibanez
 cover: https://raw.githubusercontent.com/alcaidio/cazamate.com/main/assets/img/finding-lgbtq-friendly-roommates.webp
 description: Explorez notre guide détaillé sur la recherche de colocataires LGBTQ+ friendly, conçu pour aider les membres de la communauté à découvrir des espaces de vie inclusifs et diversifiés.
-topics: Inclusion communautaire, LGBTQ+, Vie inclusive, Logement partagé, Recherche de colocataires
+topics: Inclusion communautaire, Vie inclusive, Logement partagé, Recherche de colocataires, LGBTQ+
 ---
 
 La recherche de colocataires peut être passionnante, mais elle peut également présenter des défis, surtout pour ceux qui souhaitent vivre dans un environnement inclusif et respectueux de la diversité. Si vous êtes membre de la communauté LGBTQ+ et que vous cherchez une colocation où vous vous sentirez bienvenu, voici un guide complet pour vous aider à trouver des colocataires LGBTQ+ friendly.

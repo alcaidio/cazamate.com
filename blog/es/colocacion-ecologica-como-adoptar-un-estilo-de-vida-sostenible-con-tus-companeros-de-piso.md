@@ -4,7 +4,7 @@ created_date: 2023-12-04
 author_name: Alicia Ibanez
 cover: https://btgidarfuuflvqhowmob.supabase.co/storage/v1/object/public/blog/eco-friendly-shared-living-how-to-adopt-a-sustainable-lifestyle-with-your-roommates.webp?t=2023-12-04T15%3A26%3A22.289Z
 description: Vivir en colocación puede ser mucho más que simplemente compartir espacio. También puede ser una oportunidad para vivir de manera ecoamigable y reducir nuestro impacto en el medio ambiente. Descubre cómo adoptar un estilo de vida sostenible con tus compañeros de piso y contribuir a la preservación de nuestro planeta.
-topics: Vida comunitaria, Beneficios de la vida compartida, Estilo de vida sostenible, Vida compartida, Ecología
+topics: Vida comunitaria, Estilo de vida sostenible, Vida compartida, Ecología, Beneficios de la vida compartida,
 ---
 
 ### 1. Clasificación de Residuos y Reciclaje

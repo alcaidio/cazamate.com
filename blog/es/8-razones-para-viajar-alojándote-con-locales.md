@@ -4,7 +4,7 @@ created_date: 2023-12-03
 author_name: Alicia Ibanez
 cover: https://btgidarfuuflvqhowmob.supabase.co/storage/v1/object/public/blog/8-reasons-to-travel-by-staying-with-locals.webp?t=2023-12-03T15%3A06%3A58.656Z
 description: Explorar el mundo va más allá de simples atracciones turísticas. Para una experiencia verdaderamente auténtica, enriquecedora y libre de las trampas turísticas habituales, elige alojarte con un local.
-topics: Cambio cultural, Vida compartida, Viajes
+topics: Cambio cultural, Viajes,  Vida compartida
 ---
 
 Descubre cómo esta práctica puede transformar tu viaje en una aventura inmersiva, permitiéndote vivir realmente como un local sin ser percibido como un simple turista.
