@@ -34,6 +34,6 @@ const filteredFiles = filterFilesByExtensions(allFiles, fileExtensions);
 
 filteredFiles.forEach(file =>  {
     // https://cazamate.com
-    const p = '/blog/' + path.relative(projectDir, file).slice(0, -3)
+    const p = `'/blog/${path.relative(projectDir, file).slice(0, -3)}',`
     console.log(p)
 });
